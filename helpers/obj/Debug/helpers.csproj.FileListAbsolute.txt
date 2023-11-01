@@ -16,3 +16,9 @@ D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\helpers\obj\Debug\h
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\helpers\obj\Debug\helpers.csproj.CoreCompileInputs.cache
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\helpers\obj\Debug\helpers.dll
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\helpers\obj\Debug\helpers.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\bin\Debug\helpers.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\bin\Debug\helpers.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\obj\Debug\helpers.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\obj\Debug\helpers.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\obj\Debug\helpers.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\helpers\obj\Debug\helpers.pdb

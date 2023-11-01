@@ -4,3 +4,9 @@ D:\MIS COSAS\Escritorio\TPFinalNivel2_Maine\dominio\bin\Debug\dominio.dll
 D:\MIS COSAS\Escritorio\TPFinalNivel2_Maine\dominio\bin\Debug\dominio.pdb
 D:\MIS COSAS\Escritorio\TPFinalNivel2_Maine\dominio\obj\Debug\dominio.dll
 D:\MIS COSAS\Escritorio\TPFinalNivel2_Maine\dominio\obj\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\bin\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\bin\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\obj\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\dominio\obj\Debug\dominio.pdb

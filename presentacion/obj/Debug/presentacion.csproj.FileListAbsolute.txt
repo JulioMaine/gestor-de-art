@@ -74,3 +74,22 @@ D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\presentacion\obj\De
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\presentacion\obj\Debug\presentacion.csproj.CopyComplete
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\presentacion\obj\Debug\presentacion.exe
 D:\MIS COSAS\Escritorio\Curso C# nivel 3\TPFinalNivel2_Maine\presentacion\obj\Debug\presentacion.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\presentacion.exe.config
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\presentacion.exe
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\presentacion.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\dominio.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\helpers.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\negocio.dll
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\dominio.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\helpers.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\bin\Debug\negocio.pdb
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.frmAgregarArticulo.resources
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.frmArticulos.resources
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.frmDetalle.resources
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.exe
+D:\MIS COSAS\Escritorio\gestor-de-art\presentacion\obj\Debug\presentacion.pdb
